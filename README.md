@@ -15,9 +15,12 @@ This analysis was completed for the "silver tsunami" (retirement age employee ex
     * The gender diversity of the company is nearly identical between retirement-age and non-retirement-age employees.
     * 40% of the retiring workforce are female, and 60% are male. 
     
-    *Retirement Age* 
+   *Retirement Age* 
+   
 <img width="228" alt="Screen Shot 2022-01-16 at 9 19 54 PM" src="https://user-images.githubusercontent.com/94259442/149704965-e7ed735a-eeac-4b69-bf5b-fd481c7ba0f1.png">
-    *Non-Retirement Age*
+
+   *Non-Retirement Age*
+   
 <img width="227" alt="Screen Shot 2022-01-16 at 9 22 46 PM" src="https://user-images.githubusercontent.com/94259442/149704981-f065247f-abcb-4ee3-9d26-3c2f9a13eefe.png">
 
 * **Mentorship Program Eligibility**
